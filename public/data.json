@@ -1,0 +1,302 @@
+[
+  {
+  "title": "Laptop",
+  "shortDesc": "High performance laptop",
+  "fullDesc": "This high-performance laptop is designed for both professional work and gaming enthusiasts. Equipped with the latest multi-core processor and high-speed RAM, it ensures seamless multitasking and smooth operation even under heavy workloads. The laptop features a stunning high-resolution display that offers vivid colors and sharp images, making it perfect for creative tasks, gaming, and multimedia consumption. Its lightweight design allows easy portability without compromising durability. Additionally, the advanced cooling system keeps the hardware at optimal temperatures during extended usage. With ample SSD storage, you can store all your files, applications, and games securely while experiencing lightning-fast load times. The laptop also includes multiple connectivity options, including USB-C, HDMI, and Wi-Fi 6, providing flexible and future-proof connectivity. Its sleek and modern chassis combines style and functionality, making it suitable for students, professionals, and gamers alike. This laptop is not just a machine; it is a reliable companion for productivity, creativity, and entertainment, offering an unparalleled computing experience that adapts to your daily needs.",
+  "price": 1200,
+  "date": "2025-01-01",
+  "priority": 3,
+  "image": "https://i.ibb.co/Lz6dhjP1/hp-elitebook-mobile.jpg",
+  "createdAt": "2025-11-25T08:33:31.062Z"
+  },
+  {
+  "title": "Smartphone",
+  "shortDesc": "Latest Android phone",
+  "fullDesc": "This latest-generation smartphone offers cutting-edge features for users who demand performance, style, and convenience. With a powerful processor and ample RAM, it delivers seamless performance across applications, games, and multimedia tasks. The phone features a high-resolution OLED display with vibrant colors and deep contrast, perfect for watching videos, editing photos, or browsing the web. Its professional-grade camera system captures stunning photos and videos in any lighting condition, ensuring your memories are always clear and vibrant. Long-lasting battery life allows you to use your device throughout the day without worry, while fast charging ensures minimal downtime. The sleek, ergonomic design provides both comfort and style, fitting perfectly in your hand or pocket. Advanced security features such as fingerprint sensors and facial recognition protect your data, while Android’s intuitive interface allows smooth navigation and access to countless apps. With extensive connectivity options, including 5G, Wi-Fi 6, and Bluetooth 5.2, this smartphone keeps you connected anywhere. This phone is an ideal companion for work, play, photography, and entertainment, offering a truly premium mobile experience.",
+  "price": 900,
+  "date": "2025-01-02",
+  "priority": 2,
+  "image": "https://i.ibb.co/8LRBDrYq/Smartphone.jpg",
+  "createdAt": "2025-11-25T08:34:31.062Z"
+  },
+  {
+  "title": "Headphones",
+  "shortDesc": "Noise-cancelling headphones",
+  "fullDesc": "These premium over-ear noise-cancelling headphones are designed to provide an immersive audio experience. With state-of-the-art active noise cancellation, they block out unwanted background sounds, allowing you to fully enjoy music, podcasts, or movies. The headphones deliver high-fidelity sound with rich bass, clear mids, and crisp highs, ensuring every detail of your audio is heard. Comfortable memory foam ear cups and an adjustable headband make them ideal for extended listening sessions without discomfort. Built-in microphone and intuitive touch controls allow easy management of calls, volume, and playback without reaching for your device. The headphones are compatible with multiple devices via Bluetooth or wired connection, offering flexibility for travel, work, or leisure. Long battery life ensures uninterrupted listening for hours, and the compact foldable design makes them easy to carry. Whether you’re commuting, working, or relaxing, these headphones combine premium sound quality, comfort, and convenience to elevate your audio experience to the next level.",
+  "price": 200,
+  "date": "2025-01-03",
+  "priority": 1,
+  "image": "https://i.ibb.co/0ppMfFnZ/Headphones.jpg",
+  "createdAt": "2025-11-25T08:35:31.062Z"
+  },
+  {
+  "title": "Smartwatch",
+  "shortDesc": "Fitness tracker smartwatch",
+  "fullDesc": "This smartwatch is a versatile fitness companion designed for health-conscious individuals and tech enthusiasts alike. Equipped with a precise heart-rate monitor, step counter, sleep tracker, and multiple exercise modes, it helps users maintain an active and balanced lifestyle. Its high-resolution touchscreen allows easy navigation, while notifications for calls, messages, and social apps keep you connected without checking your phone constantly. The smartwatch features a long-lasting battery that can endure days of continuous use and is built with water-resistant materials suitable for swimming or outdoor workouts. Its sleek design combines style and functionality, making it suitable for everyday wear or formal occasions. The device also provides personalized insights into your activity patterns, helping you make informed decisions to improve health and productivity. Coupled with a customizable interface and multiple watch faces, this smartwatch caters to individual preferences, ensuring both efficiency and elegance. It’s not just a timepiece; it is a comprehensive health and lifestyle assistant that keeps you informed, motivated, and on track throughout your day.",
+  "price": 250,
+  "date": "2025-01-04",
+  "priority": 2,
+  "image": "https://i.ibb.co/0pBC30Gg/images-1.jpg",
+  "createdAt": "2025-11-25T08:36:31.062Z"
+  },
+  {
+  "title": "Camera",
+  "shortDesc": "DSLR Camera",
+  "fullDesc": "This professional DSLR camera is engineered for photographers seeking outstanding image quality, versatility, and reliability. Featuring a high-resolution sensor and advanced image processor, it delivers crisp, detailed photos and videos with remarkable clarity. The camera supports interchangeable lenses, allowing creative control over depth of field, focal length, and perspective. Its ergonomic design ensures comfort during long shoots, and intuitive controls provide quick access to essential settings. Advanced autofocus and low-light performance make it ideal for portrait, landscape, and action photography. With Wi-Fi and Bluetooth connectivity, transferring images and remote shooting is effortless. The durable construction protects against environmental elements, ensuring reliability during outdoor adventures. The camera also offers extensive manual and automatic shooting modes, catering to both beginners and professional photographers. Combined with its superior optical viewfinder, high-speed continuous shooting, and video recording capabilities, this DSLR camera provides a comprehensive solution for capturing stunning visuals with precision, creativity, and confidence, making it an indispensable tool for every photography enthusiast.",
+  "price": 1500,
+  "date": "2025-01-05",
+  "priority": 3,
+  "image": "https://i.ibb.co/DP1XhQJy/Camera.jpg",
+  "createdAt": "2025-11-25T08:37:31.062Z"
+  },
+  {
+  "title": "Tablet",
+  "shortDesc": "10-inch tablet",
+  "fullDesc": "This lightweight 10-inch tablet combines portability, performance, and entertainment for users on the go. Its vibrant high-resolution display delivers crisp visuals for reading, watching videos, gaming, or drawing with a stylus. The tablet features a fast processor and ample memory to ensure smooth performance across applications and multitasking. Long-lasting battery life allows all-day use without constant recharging. Built-in cameras, Wi-Fi connectivity, and optional LTE support enable seamless communication, online learning, and remote work. The tablet supports a wide range of productivity and creative applications, including note-taking, design, and multimedia editing. Its sleek and modern design, coupled with a durable body, ensures both style and reliability. Adjustable display settings and eye-comfort modes make prolonged usage comfortable. This tablet is ideal for students, professionals, and casual users who require a flexible device capable of meeting both work and entertainment needs, offering convenience, performance, and a premium digital experience in a compact form factor.",
+  "price": 400,
+  "date": "2025-01-06",
+  "priority": 2,
+  "image": "https://i.ibb.co/whPt3hHw/Tablet.jpg",
+  "createdAt": "2025-11-25T08:38:31.062Z"
+  },
+  {
+  "title": "Gaming Console",
+  "shortDesc": "Next-gen console",
+  "fullDesc": "This next-generation gaming console delivers an immersive gaming experience for both casual and hardcore gamers. Featuring a high-performance CPU and GPU, it supports 4K resolution and smooth frame rates for lifelike graphics. The console comes with a library of exclusive games, backward compatibility for older titles, and extensive online services for multiplayer gaming. Its sleek design fits easily into any entertainment setup, while the controller provides precision, comfort, and responsive feedback during gameplay. Advanced cooling systems ensure stable performance during extended gaming sessions. Additional features include multimedia capabilities such as streaming apps, music, and video playback, making it a complete entertainment hub. The console supports multiple storage options and expansion for large game libraries. Its user-friendly interface allows quick navigation, setup, and game management. Whether playing solo or with friends online, this gaming console provides unparalleled performance, versatility, and fun, redefining home entertainment and interactive experiences.",
+  "price": 600,
+  "date": "2025-01-07",
+  "priority": 3,
+  "image": "https://i.ibb.co/TDmS9gGM/Gaming-Console.jpg",
+  "createdAt": "2025-11-25T08:39:31.062Z"
+  },
+  {
+  "title": "Monitor",
+  "shortDesc": "4K UHD Monitor",
+  "fullDesc": "This 27-inch 4K UHD monitor delivers exceptional clarity, color accuracy, and immersive visuals for both work and entertainment. The ultra-high-definition display offers stunning detail, vibrant colors, and wide viewing angles, ideal for creative professionals, gamers, and general users alike. Its ergonomic stand allows height, tilt, and swivel adjustments for comfortable long-term usage. Equipped with multiple input options including HDMI, DisplayPort, and USB-C, it ensures compatibility with a wide range of devices. The monitor features low blue-light and flicker-free technology to reduce eye strain during extended usage. Its slim bezels and sleek design make it aesthetically pleasing and suitable for multi-monitor setups. High refresh rate and low response time enhance gaming experiences, ensuring smooth motion and minimal lag. Whether editing photos, watching movies, or gaming, this monitor provides precise, vivid, and lifelike images, combining performance, comfort, and style for a premium viewing experience that elevates your workspace or entertainment setup.",
+  "price": 350,
+  "date": "2025-01-08",
+  "priority": 1,
+  "image": "https://i.ibb.co/bMMmLpcB/Monitor.jpg",
+  "createdAt": "2025-11-25T08:40:31.062Z"
+  },
+  {
+  "title": "Keyboard",
+  "shortDesc": "Mechanical Keyboard",
+  "fullDesc": "This RGB mechanical keyboard is designed for gamers, programmers, and typing enthusiasts who demand performance, precision, and aesthetics. Featuring tactile switches with satisfying feedback, it ensures accurate keystrokes and smooth typing experience. The customizable RGB lighting allows users to personalize the look and feel, with multiple effects, zones, and dynamic animations. Its sturdy build ensures long-lasting durability, while an ergonomic design reduces strain during prolonged usage. Additional features include anti-ghosting technology, programmable keys, and dedicated media controls for convenience and efficiency. Compatible with multiple operating systems, it integrates seamlessly into any desktop setup. The keyboard’s software allows easy customization of key functions and lighting patterns, making it adaptable to individual preferences. Whether gaming competitively, coding, or writing, this mechanical keyboard provides both high functionality and stylish aesthetics, enhancing the overall experience for users who value quality, reliability, and performance in their input devices.",
+  "price": 120,
+  "date": "2025-01-09",
+  "priority": 2,
+  "image": "https://i.ibb.co/bjk5j0tX/Keyboard.jpg",
+  "createdAt": "2025-11-25T08:41:31.062Z"
+  },
+  {
+  "title": "Mouse",
+  "shortDesc": "Wireless Gaming Mouse",
+  "fullDesc": "This wireless gaming mouse is engineered for precision, speed, and comfort for avid gamers and productivity users alike. Featuring high-DPI sensors, it provides accurate tracking and responsiveness for both fast-paced gaming and meticulous tasks. The ergonomic design ensures long-lasting comfort, reducing hand fatigue during extended sessions. Programmable buttons allow customization for in-game commands or shortcuts, while the durable switches guarantee reliability over extensive usage. Its sleek, lightweight design makes it easy to move and control, and the smooth glide is enhanced by high-quality mouse feet. Wireless connectivity ensures freedom of movement without lag, and the battery life supports long hours of uninterrupted use. The mouse is compatible with multiple operating systems and works seamlessly with gaming setups, creative software, or everyday computing. Its combination of speed, precision, and comfort makes it an ideal accessory for gamers, developers, and general users who require a responsive and reliable input device, delivering an enhanced overall experience.",
+  "price": 80,
+  "date": "2025-01-10",
+  "priority": 1,
+  "image": "https://i.ibb.co/tP2pHjC8/Mouse.jpg",
+  "createdAt": "2025-11-25T08:42:31.062Z"
+  },
+  {
+  "title": "Printer",
+  "shortDesc": "All-in-one printer",
+  "fullDesc": "This all-in-one printer is designed for both home and office use, combining printing, scanning, copying, and wireless connectivity in a single device. With high-resolution printing capabilities, it produces crisp text and vivid color documents, ensuring professional-quality results every time. The built-in scanner allows you to digitize important documents quickly, while the copying function provides convenient duplicates without needing a computer. Wi-Fi and mobile printing support enable seamless integration with smartphones, tablets, and laptops, making printing tasks more flexible and efficient. Its compact design fits easily on desks or shelves without occupying too much space. Energy-efficient operation reduces power consumption, and intuitive controls simplify setup and everyday use. This printer is ideal for students, remote workers, and small business owners who need a reliable and multifunctional device. Combining speed, efficiency, and convenience, it enhances productivity and reduces the hassle of handling multiple machines. Its durable build ensures longevity, while software and driver support provide compatibility with most operating systems. With this printer, users experience a smooth, professional, and versatile printing solution tailored to modern workflow needs.",
+  "price": 200,
+  "date": "2025-01-11",
+  "priority": 2,
+  "image": "https://i.ibb.co/9kC7NN6H/Printer.jpg",
+  "createdAt": "2025-11-25T08:43:31.062Z"
+  },
+  {
+  "title": "Router",
+  "shortDesc": "High-speed Wi-Fi Router",
+  "fullDesc": "This high-speed dual-band Wi-Fi router provides reliable and fast internet connectivity for homes and offices, ensuring seamless online experiences for multiple devices simultaneously. With advanced antennas and wide coverage capabilities, it delivers strong signals throughout large spaces, reducing dead zones and interruptions. Built-in security features, including WPA3 encryption and firewall protection, keep your network safe from unauthorized access and cyber threats. The router supports gigabit speeds, allowing smooth streaming, gaming, and video conferencing without lag. Its intuitive setup process and user-friendly interface enable easy configuration and network management. Quality-of-service (QoS) settings prioritize bandwidth for critical devices and applications, ensuring optimal performance during peak usage. Compact and modern design fits well in any environment without cluttering your space. Ideal for families, remote workers, and small offices, this router provides dependable connectivity and flexibility. With regular firmware updates and compatibility with a wide range of devices, it ensures a secure, high-performance network that meets today’s demanding internet requirements, making it a vital addition to any modern connected environment.",
+  "price": 150,
+  "date": "2025-01-12",
+  "priority": 2,
+  "image": "https://i.ibb.co/1YJ0MVSy/images.jpg",
+  "createdAt": "2025-11-25T08:44:31.062Z"
+  },
+  {
+  "title": "External Hard Drive",
+  "shortDesc": "2TB Portable HDD",
+  "fullDesc": "This 2TB portable external hard drive is ideal for users needing reliable and high-capacity storage on the go. Its compact and lightweight design allows easy portability, making it convenient to carry important files, media, and backups anywhere. With fast USB connectivity, it ensures quick file transfers and access, reducing waiting times and increasing productivity. The hard drive is compatible with multiple operating systems, including Windows, macOS, and Linux, providing versatile usage across devices. Its durable casing protects the drive from minor bumps and scratches, ensuring data safety during travel. Perfect for photographers, students, and professionals, it offers ample space to store large files such as videos, images, documents, and software. The drive requires no external power supply, operating solely via USB, which adds to its convenience and efficiency. Built-in error-checking and backup features provide added security, preventing accidental data loss. This external hard drive combines speed, capacity, portability, and reliability, offering users an effective solution for expanding storage, safeguarding data, and enhancing digital workflow management.",
+  "price": 100,
+  "date": "2025-01-13",
+  "priority": 1,
+  "image": "https://i.ibb.co/PvmcPD20/External-Hard-Drive.jpg",
+  "createdAt": "2025-11-25T08:45:31.062Z"
+  },
+{
+"title": "Speakers",
+"shortDesc": "Bluetooth Speakers",
+"fullDesc": "These high-quality Bluetooth speakers deliver rich, immersive sound with deep bass and crisp highs, ideal for both indoor and outdoor use. With wireless connectivity, they pair easily with smartphones, tablets, and laptops, allowing seamless music streaming from anywhere. The compact and portable design makes them perfect for parties, travel, or casual listening, while long-lasting battery life ensures hours of uninterrupted playback. Built with durable materials, they withstand minor bumps and accidental drops. The speakers also support hands-free calls, voice assistant integration, and multiple pairing modes, enhancing their versatility. Easy-to-use controls allow intuitive operation, including volume adjustments, track navigation, and power management. Whether you enjoy podcasts, music, or movies, these speakers deliver superior audio performance that elevates every listening experience. Their modern aesthetic complements any space, and their portability ensures your favorite tunes are always within reach. Designed for audiophiles, students, and professionals alike, these Bluetooth speakers combine performance, style, and convenience to enrich your everyday audio experience. With high-quality sound reproduction, reliable wireless connectivity, and ergonomic design, they are a must-have accessory for music lovers seeking portable, versatile, and durable speakers that perform consistently.",
+"price": 90,
+"date": "2025-01-14",
+"priority": 1,
+"image": "https://i.ibb.co/JWwBsLcc/Speakers.jpg",
+"createdAt": "2025-11-25T08:46:31.062Z"
+},
+{
+"title": "Projector",
+"shortDesc": "1080p Projector",
+"fullDesc": "This high-definition 1080p projector provides a cinematic experience in the comfort of your home, perfect for movies, presentations, and gaming. It supports HDMI and wireless connectivity, allowing seamless integration with laptops, smartphones, and streaming devices. With a bright projection and vivid color accuracy, it delivers sharp and lifelike images even in moderately lit environments. The projector includes adjustable keystone correction and focus settings for optimal image alignment, ensuring professional-quality viewing. Its compact, lightweight design allows easy portability and storage, making it suitable for home theaters, classrooms, or business meetings. Energy-efficient operation reduces power consumption, and quiet cooling ensures minimal distraction during use. Ideal for families, students, and professionals, this projector combines ease of use, performance, and flexibility. With multiple connectivity options, long lamp life, and robust build quality, it guarantees consistent and enjoyable performance. Enhance your visual experience with immersive projection that delivers crisp, clear, and vibrant images for entertainment, education, and work. This projector is a versatile, reliable, and practical solution for modern multimedia needs.",
+"price": 400,
+"date": "2025-01-15",
+"priority": 2,
+"image": "https://i.ibb.co/RGLL3TxB/Projector.jpg",
+"createdAt": "2025-11-25T08:47:31.062Z"
+},
+{
+"title": "Smart Light",
+"shortDesc": "Wi-Fi Smart Bulb",
+"fullDesc": "This Wi-Fi-enabled smart light bulb offers adjustable color and brightness control from your smartphone or voice assistant, transforming any room ambiance instantly. Compatible with popular smart home platforms, it allows scheduling, automation, and remote control, enhancing convenience and energy efficiency. Its long-lasting LED technology ensures consistent illumination while reducing power consumption compared to traditional bulbs. Ideal for creating mood lighting, highlighting decor, or managing lighting in workspaces, this smart bulb adapts to daily routines effortlessly. Installation is simple and requires no additional hub in most setups, allowing quick integration into existing home networks. The bulb’s durable design ensures longevity, and its sleek appearance complements any fixture. Suitable for homeowners, students, and tech enthusiasts, it provides both aesthetic and practical benefits. With advanced functionality, remote access, and customizable settings, this smart light enhances comfort, productivity, and style. Create personalized lighting scenes, control the ambiance remotely, and integrate seamlessly with other smart devices. It offers a combination of convenience, energy savings, and modern home automation that elevates everyday living.",
+"price": 40,
+"date": "2025-01-16",
+"priority": 1,
+"image": "https://i.ibb.co/bMqh50td/Smart-Light.jpg",
+"createdAt": "2025-11-25T08:48:31.062Z"
+},
+{
+"title": "Tablet Stand",
+"shortDesc": "Adjustable Tablet Stand",
+"fullDesc": "This adjustable tablet stand is designed for versatile use, offering comfortable viewing and hands-free operation for tablets, smartphones, and e-readers. Its sturdy build ensures stability while working, watching videos, or presenting content, preventing slips and falls. Multiple angle adjustments allow ergonomic positioning to reduce neck and eye strain during extended use. The lightweight and portable design makes it ideal for home, office, or travel use. Compatible with a wide range of devices, it accommodates various sizes securely. Non-slip pads protect devices from scratches and enhance stability on smooth surfaces. Ideal for students, professionals, and content creators, it enhances productivity and convenience by providing a stable and ergonomic setup for work, reading, or entertainment. Quick folding and easy storage make it practical for on-the-go lifestyles. With modern aesthetics, durable construction, and flexible adjustability, this tablet stand combines functionality and style. It provides an effective solution for comfortable, secure, and efficient device usage, allowing users to focus on tasks without strain or disruption.",
+"price": 25,
+"date": "2025-01-17",
+"priority": 1,
+"image": "https://i.ibb.co/zHjyxTHV/Tablet-Stand.jpg",
+"createdAt": "2025-11-25T08:49:31.062Z"
+},
+{
+"title": "Smart Thermostat",
+"shortDesc": "Wi-Fi Thermostat",
+"fullDesc": "This smart Wi-Fi thermostat allows precise control over home temperature from your smartphone or voice assistant, offering convenience, comfort, and energy efficiency. It supports scheduling and automation, enabling temperature adjustments based on time, occupancy, or preferences, reducing unnecessary energy consumption. With intuitive controls, users can easily set desired temperatures, monitor usage, and integrate with other smart home devices for a fully connected environment. The thermostat features real-time notifications and energy usage insights to help optimize consumption. Its sleek, modern design fits seamlessly into any home decor, while its responsive sensors ensure accurate readings. Installation is straightforward, and the device is compatible with most heating and cooling systems. Ideal for homeowners, renters, and smart home enthusiasts, this thermostat combines efficiency, comfort, and smart technology. By maintaining optimal temperature settings automatically, it enhances comfort, saves energy costs, and contributes to a more sustainable lifestyle. Reliable, user-friendly, and versatile, it transforms home climate control into a convenient, intelligent experience.",
+"price": 150,
+"date": "2025-01-18",
+"priority": 2,
+"image": "https://i.ibb.co/wFb3DNtF/Smart-Thermostat.jpg",
+"createdAt": "2025-11-25T08:50:31.062Z"
+},
+{
+"title": "Coffee Maker",
+"shortDesc": "Automatic Coffee Machine",
+"fullDesc": "This automatic coffee maker brews fresh coffee quickly and effortlessly, perfect for home or office use. Equipped with customizable settings, it allows control over strength, temperature, and brew size, catering to diverse preferences. The machine features a built-in grinder for fresh ground coffee and ensures consistent flavor with each cup. Easy-to-use controls and intuitive interface simplify daily operation, while a removable water reservoir and drip tray facilitate cleaning and maintenance. Its compact design fits conveniently on counters without occupying excessive space. With programmable timers, it prepares coffee automatically at desired times, saving time during busy mornings. Ideal for coffee enthusiasts, professionals, and families, it combines convenience, reliability, and quality. Durable construction ensures long-lasting performance, and modern aesthetics complement any kitchen. By delivering freshly brewed, aromatic coffee consistently, it enhances the daily routine and elevates the coffee experience. Combining functionality, style, and efficiency, this coffee maker provides a practical and enjoyable solution for effortless coffee enjoyment.",
+"price": 120,
+"date": "2025-01-19",
+"priority": 2,
+"image": "https://i.ibb.co/MDYRkXLg/Coffee-Maker.webp",
+"createdAt": "2025-11-25T08:51:31.062Z"
+},
+{
+"title": "Blender",
+"shortDesc": "High-speed Blender",
+"fullDesc": "This high-speed blender is designed for creating smoothies, shakes, sauces, and more with ease and efficiency. Equipped with powerful motors and sharp blades, it blends ingredients smoothly, ensuring consistent texture for all recipes. The blender features multiple speed settings and pre-programmed modes to accommodate different blending tasks, from crushing ice to pureeing fruits and vegetables. Its durable construction ensures long-lasting performance, while the easy-to-clean design, including detachable jars and dishwasher-safe components, simplifies maintenance. Compact and ergonomic, it fits conveniently in any kitchen space. Ideal for health-conscious users, families, and cooking enthusiasts, it facilitates the preparation of nutritious meals and beverages quickly. With safety features such as secure lid locks and non-slip bases, it prevents accidents during operation. The modern design, combined with high functionality, ensures both aesthetic appeal and practical use. By offering fast, efficient, and versatile blending capabilities, this appliance enhances kitchen productivity, making everyday cooking easier, healthier, and more enjoyable.",
+"price": 70,
+"date": "2025-01-20",
+"priority": 1,
+"image": "https://i.ibb.co/WpKXyBy3/Blender.jpg",
+"createdAt": "2025-11-25T08:52:31.062Z"
+},
+{
+"title": "Microwave",
+"shortDesc": "Compact Microwave Oven",
+"fullDesc": "This compact microwave oven is perfect for quickly heating, defrosting, and cooking meals in small kitchens or offices. Featuring multiple power levels and preset cooking modes, it ensures precise cooking for a variety of dishes. The microwave includes a turntable for even heating and a user-friendly digital interface with easy-to-read controls. Its energy-efficient design reduces power consumption, while the compact footprint saves counter space without compromising functionality. Ideal for busy households, students, and professionals, it provides convenience, speed, and reliability. Safety features such as child lock and auto shut-off ensure secure operation. The modern exterior design complements any kitchen decor. With fast and consistent cooking performance, this microwave enhances daily routines, making meal preparation simple and efficient. It combines practicality, durability, and ease of use to deliver a versatile kitchen appliance suitable for a wide range of culinary needs, offering users a reliable and enjoyable cooking experience.",
+"price": 90,
+"date": "2025-01-21",
+"priority": 1,
+"image": "https://i.ibb.co/yc1TrsP8/Microwave.jpg",
+"createdAt": "2025-11-25T08:53:31.062Z"
+},
+{
+"title": "Electric Kettle",
+"shortDesc": "Fast Boiling Kettle",
+"fullDesc": "This electric kettle rapidly boils water for tea, coffee, or instant meals, providing convenience and efficiency in any kitchen. With an automatic shut-off feature and boil-dry protection, it ensures safety during operation. The kettle’s ergonomic handle, easy-pour spout, and clear water level indicator enhance usability. Its sleek design and durable materials complement modern kitchen aesthetics. Ideal for households, students, and offices, it combines speed, safety, and style. Energy-efficient heating reduces electricity consumption while maintaining performance. With a removable filter and easy-to-clean surfaces, maintenance is simple and hassle-free. Perfect for daily routines, the kettle ensures reliable and consistent results, boiling water quickly for beverages or cooking needs. Its compact footprint allows easy storage and portability. Combining rapid boiling, safety features, and user-friendly design, this electric kettle provides a practical and dependable solution for modern kitchens, elevating everyday convenience and functionality.",
+"price": 45,
+"date": "2025-01-22",
+"priority": 1,
+"image": "https://i.ibb.co/svbCz5kW/Electric-Kettle.jpg",
+"createdAt": "2025-11-25T08:54:31.062Z"
+},
+{
+"title": "Air Purifier",
+"shortDesc": "HEPA Air Purifier",
+"fullDesc": "This HEPA air purifier efficiently removes dust, allergens, and pollutants from indoor air, improving health and comfort for home or office environments. Equipped with a multi-stage filtration system, it captures fine particles, smoke, and odors, providing cleaner and fresher air. The purifier operates quietly, allowing uninterrupted work, sleep, or relaxation. Its compact design fits conveniently in bedrooms, living rooms, or office spaces, while intuitive controls enable easy operation. Energy-efficient performance reduces electricity usage, and filter replacement indicators simplify maintenance. Ideal for allergy sufferers, families, and office workers, it contributes to better respiratory health and overall well-being. The purifier also offers multiple fan speeds, timer settings, and air quality monitoring to optimize performance based on needs. With a sleek, modern aesthetic, it complements any interior decor. Combining powerful filtration, quiet operation, and ease of use, this air purifier delivers reliable, high-quality air purification. It provides a healthier, cleaner, and more comfortable living and working environment, ensuring peace of mind and improved quality of life for all users.",
+"price": 200,
+"date": "2025-01-23",
+"priority": 2,
+"image": "https://i.ibb.co/Df157n4M/Air-Purifier.jpg",
+"createdAt": "2025-11-25T08:55:31.062Z"
+},
+{
+"title": "Vacuum Cleaner",
+"shortDesc": "Robotic Vacuum",
+"fullDesc": "This smart robotic vacuum cleaner offers hands-free cleaning with advanced auto navigation, mapping, and obstacle detection. It efficiently vacuums dust, dirt, and pet hair from various floor types, including carpet, hardwood, and tile. With programmable schedules, remote app control, and smart home integration, it ensures a clean home effortlessly. Its compact design allows cleaning under furniture and hard-to-reach areas, while sensors prevent collisions and falls. Ideal for busy households, pet owners, and tech enthusiasts, it combines convenience, efficiency, and intelligent cleaning technology. Long-lasting battery life and automatic return-to-charge function provide uninterrupted operation, making it a reliable home cleaning assistant.",
+"price": 300,
+"date": "2025-01-24",
+"priority": 3,
+"image": "https://i.ibb.co/V0fp9FgB/Vacuum-Cleaner.jpg",
+"createdAt": "2025-11-25T08:56:31.062Z"
+},
+{
+"title": "Gaming Chair",
+"shortDesc": "Ergonomic Gaming Chair",
+"fullDesc": "This ergonomic gaming chair is designed for comfort during long gaming sessions and work hours. With adjustable height, reclining backrest, lumbar support, and padded armrests, it promotes proper posture and reduces fatigue. Built with durable materials and a sturdy base, it ensures stability and long-term use. The modern design enhances any gaming setup or office environment, while high-density foam cushions provide plush seating comfort. Suitable for gamers, streamers, and professionals, it combines style, functionality, and ergonomic support for an optimal sitting experience.",
+"price": 250,
+"date": "2025-01-25",
+"priority": 2,
+"image": "https://i.ibb.co/B26J7MMN/Gaming-Chair.webp",
+"createdAt": "2025-11-25T08:57:31.062Z"
+},
+{
+"title": "Desk Lamp",
+"shortDesc": "LED Desk Lamp",
+"fullDesc": "This energy-saving LED desk lamp provides adjustable brightness and color temperature, ideal for reading, studying, or office work. Its flexible arm and head allow precise positioning, reducing eye strain and enhancing focus. The lamp features touch controls, memory function, and USB charging ports for added convenience. Sleek and modern, it fits any workspace aesthetic while delivering consistent, flicker-free lighting. Perfect for students, professionals, and creative individuals, it combines functionality, efficiency, and style in a compact design.",
+"price": 35,
+"date": "2025-01-26",
+"priority": 1,
+"image": "https://i.ibb.co/Wp2Yh4pg/Desk-Lamp.jpg",
+"createdAt": "2025-11-25T08:58:31.062Z"
+},
+{
+"title": "Webcam",
+"shortDesc": "HD Webcam",
+"fullDesc": "This high-definition webcam delivers clear and crisp video quality for streaming, video calls, and online meetings. Featuring auto-focus, low-light correction, and built-in noise-reducing microphone, it ensures professional-grade communication. The webcam is easy to mount on monitors, laptops, or tripods, providing flexible placement. Compatible with major video conferencing and streaming platforms, it enhances online interactions for professionals, content creators, and students. Compact and stylish, it combines reliability, convenience, and performance for an optimal video experience.",
+"price": 70,
+"date": "2025-01-27",
+"priority": 1,
+"image": "https://i.ibb.co/LdQTWjYn/Webcam.png",
+"createdAt": "2025-11-25T08:59:31.062Z"
+},
+{
+"title": "Smart Doorbell",
+"shortDesc": "Video Doorbell",
+"fullDesc": "This smart video doorbell allows homeowners to see, hear, and communicate with visitors from anywhere via smartphone or tablet. Featuring motion detection, HD video, two-way audio, and night vision, it enhances home security and convenience. The doorbell sends real-time alerts when motion is detected, enabling prompt response. Easy to install and compatible with existing doorbell wiring or battery operation, it integrates seamlessly with smart home systems. Ideal for families and security-conscious individuals, it combines advanced features, reliability, and modern design to improve home safety and monitoring.",
+"price": 150,
+"date": "2025-01-28",
+"priority": 2,
+"image": "https://i.ibb.co/JjzGWcjq/Smart-Doorbell.jpg",
+"createdAt": "2025-11-25T09:00:31.062Z"
+},
+{
+"title": "Electric Scooter",
+"shortDesc": "Foldable Electric Scooter",
+"fullDesc": "This foldable electric scooter offers a convenient, eco-friendly transportation solution for urban commuting. With powerful motor, long battery life, and multiple speed settings, it provides smooth rides over short and medium distances. The foldable design ensures portability and easy storage, while durable construction and anti-slip tires enhance safety and stability. Ideal for students, professionals, and city commuters, it combines speed, efficiency, and practicality. Integrated lights and brakes ensure visibility and control, making it a reliable and stylish option for modern mobility needs.",
+"price": 500,
+"date": "2025-01-29",
+"priority": 3,
+"image": "https://i.ibb.co/Jw4dPQH7/Electric-Scooter.jpg",
+"createdAt": "2025-11-25T09:01:31.062Z"
+},
+{
+"title": "Fitness Tracker",
+"shortDesc": "Wearable Fitness Tracker",
+"fullDesc": "This wearable fitness tracker monitors steps, calories burned, heart rate, and sleep patterns to help users maintain a healthy lifestyle. It syncs with smartphones to provide real-time data, reminders, and activity tracking. The lightweight, water-resistant design ensures comfortable wear during workouts, daily routines, or outdoor activities. With customizable watch faces, alarms, and notifications, it combines functionality, style, and convenience. Ideal for fitness enthusiasts, athletes, and health-conscious individuals, it supports goal setting, performance tracking, and wellness management, offering a reliable companion for an active and healthy lifestyle.",
+"price": 80,
+"date": "2025-01-30",
+"priority": 1,
+"image": "https://example.com/image30.png",
+"createdAt": "2025-11-25T09:02:31.062Z"
+}
+]
