@@ -2,18 +2,10 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    remotePatterns: [{
-        protocol: "https",
-        hostname: "lh3.googleusercontent.com"
-      },
-      {
-        protocol: "https",
-        hostname: "i.ibb.co"
-      },
-      {
-        protocol: "https",
-        hostname: "example.com"
-      },
+    remotePatterns: [
+      { protocol: "https", hostname: "lh3.googleusercontent.com" },
+      { protocol: "https", hostname: "i.ibb.co" },
+      { protocol: "https", hostname: "example.com" },
     ],
   },
 };

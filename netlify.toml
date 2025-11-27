@@ -1,5 +1,7 @@
-# netlify.toml
-
 [build]
-command = "npm run build"
-publish = ".netlify/output"
+  command = "npm run build"
+  publish = ".next"
+  edge_functions = "netlify/edge-functions"
+
+[[plugins]]
+  package = "@netlify/next"
