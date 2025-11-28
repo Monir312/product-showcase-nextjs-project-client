@@ -1,4 +1,4 @@
-````{"id":"71125","variant":"standard"}
+
 # 🛍️ Product Showcase – Interactive E-Commerce Platform
 
 **Product Showcase** is a fully responsive and dynamic web application designed to list, display, and manage products efficiently. Users can explore products, view detailed information, and perform CRUD operations securely if authenticated. The platform emphasizes modern design, smooth interactions, and a user-friendly shopping experience.
