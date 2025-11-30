@@ -10,11 +10,6 @@ const ProductPage = () => {
   const router = useRouter();
   const [products, setProducts] = useState([]);
 
-  useEffect(() => {
-    if (!loading && !user) {
-      router.push("/auth/login");
-    }
-  }, [user, loading, router]);
 
   useEffect(() => {
     if (user) {

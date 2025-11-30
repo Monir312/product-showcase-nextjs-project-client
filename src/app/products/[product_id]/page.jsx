@@ -14,15 +14,6 @@ export default function ProductDetails() {
 
 
   useEffect(() => {
-    if (!loading && !user) {
-      router.push('/auth/login');
-      toast.info("Please login to view product details");
-    }
-  }, [user, loading, router]);
-
-
-  useEffect(() => {
-    if (!user) return;
 
     fetch(`https://product-showcase-nextjs-project-server-production-a2ed.up.railway.app/products/${product_id}`)
       .then((res) => res.json())
